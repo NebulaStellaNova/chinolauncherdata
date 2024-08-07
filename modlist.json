@@ -1,8 +1,29 @@
 {
   "mods": [
     {
+      "id": 71204,
+      "type": "Wip",
+      "version": "v0.0.1"
+    },
+    {
       "id": 338924,
-      "type": "Mod"
+      "type": "Mod",
+      "version": "v0.0.1"
+    },
+    {
+      "id": 398381,
+      "type": "Mod",
+      "version": "v0.0.1"
+    },
+    {
+      "id": 397309,
+      "type": "Mod",
+      "version": "v0.0.1"
+    },
+    {
+      "id": 394885,
+      "type": "Mod",
+      "version": "v0.0.1"
     }
   ]
 }
