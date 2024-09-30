@@ -1,6 +1,12 @@
 {
   "mods": [
     {
+      "id": 545648,
+      "type": "Mod",
+      "version": "v1.0",
+      "download": "https://github.com/jasontheone111/chinolauncherdata/raw/main/Project%20Chinos%20Chaos%20Demo%20Christmas.zip"
+    },
+    {
       "id": 71204,
       "type": "Wip",
       "version": "v0.0.1",
